@@ -1,0 +1,56 @@
+[Fragment setup files](https://mega.nz/#!rVhzQR5Q!a1uIIn2c65wW7E-_VflpzSeOa_kIktGYK2neG8vd0Hw)
+
+[PCSX2 patch file](http://fragment.dothackers.org/pnach.zip) for [Netslum Server](http://fragment.dothackers.org/)
+
+~~~~~~~~~~~~~ **Emulator Setup** ~~~~~~~~~~~~~
+
+1. Open the "1st Step" folder and run the emulator installer.
+
+2. Launch PCSX2 and click "next" twice (until the screen says "Select BIOS rom")
+
+3. Click "Open in Explorer" and copy all the files in the "2nd Step" folder to this location that just opened up (the bios folder)
+
+4. Go back to PCSX2, click "refresh list", select the bios, and click "finish"
+
+5. Now that the emulator launched, click "config" then "Plugin/BIOS Selector". On that window, click "Open in Explorer"
+
+6. Copy both plugins in the "3rd Step" folder into the location that just opened up (the Plugins folder)
+
+7. Back in the emulator, close the plugin window and open it again (config > Plugin/BIOS Selector)
+
+8. Under "USB", change it to "CLR USB Keyboard 0.5.0 [USB_VB]" and under "DEV9" change it to "CLR DEV9 0.5.0 [CLR_DEV9]
+
+9. Click "Apply" and "Okay"
+
+~~~~~~~~~~~~~ **Connection Setup** ~~~~~~~~~~~~~
+
+1. In PCSX2, click "System" then "Boot CDVD (fast)". Navigate to the "4th Step" folder and boot the "Network Adaptor Stat-Up Disc (USA)"
+
+2. When the disc boots, go to "ISP Setup", format the memory card when it asks you to
+
+3. Keep pushing "x" until you get to the age screen. The keyboard plugin allows us to use our keyboards, so type in whatever you wish. It really doesn't matter. This also goes for when it asks for first name, last name, email. Just type whatever.
+
+4. Keep pushing "x" until it asks you to name your connection. This doesn't matter either. I named mine "Fragment"
+
+5. Keep pushing "x" until it writes to your memory card and you get a screen that says "Congratulations!". You can now push escape and close this emulation.
+
+
+~~~~~~~~~ **Connecting to the Netslum Server** ~~~~~~~~~
+
+1. Extract the "pnach.zip" file into [your account name]\Documents\PCSX2\cheats
+
+2. In PCSX2, click "system" and then "enable cheats"
+
+~~~~~~~~~~~~~ **Launching Fragment** ~~~~~~~~~~~~~
+
+1. In PSCX2, click "CDVD" then "Iso Selector" and then "Browse..."
+
+2. Navigate to the "5th Step" folder and select the Fragment Disc (fragment_client_v08.13)
+
+3. In PSCX2, click system>boot CDVD (fast)
+
+4. Select the first memory card. On the next screen, click "Yes" ("O" is to select in game, not "X")
+
+5. Move down to "select" then "card 1", then "1"
+
+6. Click "Connect" and there you go! When you click "Online" on the Fragment title screen, it should bring you to the in game desktop with a message from the Netslum servers
